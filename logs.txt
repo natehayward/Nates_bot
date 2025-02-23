@@ -36,3 +36,12 @@
 2025-02-09 17:34:51,723 - 127.0.0.1 - - [09/Feb/2025 17:34:51] "GET /balances HTTP/1.1" 200 -
 2025-02-09 17:36:18,193 - BUY 11.22875904 XLM (~$3.47) at $0.309158
 2025-02-09 17:36:18,193 - 127.0.0.1 - - [09/Feb/2025 17:36:18] "POST /webhook HTTP/1.1" 200 -
+2025-02-23 12:52:19,638 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.1.162:80
+2025-02-23 12:52:19,638 - [33mPress CTRL+C to quit[0m
+2025-02-23 12:56:28,945 - SELL 7.6 SKL (~$0.27) at $0.035550
+2025-02-23 12:56:28,945 - 127.0.0.1 - - [23/Feb/2025 12:56:28] "POST /webhook HTTP/1.1" 200 -
+2025-02-23 13:00:50,375 - SELL 11.22875905 XLM (~$3.70) at $0.329730
+2025-02-23 13:00:50,376 - 127.0.0.1 - - [23/Feb/2025 13:00:50] "POST /webhook HTTP/1.1" 200 -
