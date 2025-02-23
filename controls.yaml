@@ -1,0 +1,4 @@
+base_currency: "USDC"
+crypto_count: 3  # Number of cryptos bot will manage
+reserve_buffer: 10  # % of base balance to keep reserved
+sell_percentage: 100  # % of crypto to sell on each signal

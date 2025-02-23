@@ -1,0 +1,12 @@
+Flask==3.1.0
+requests==2.32.3
+PyJWT==2.10.1
+PyYAML==6.0.2
+cryptography==44.0.0
+coinbase-advanced-py==1.8.2
+pycryptodome==3.21.0
+cffi==1.17.1
+pycparser==2.22
+backoff==2.2.1
+colorama==0.4.6
+websockets==13.1

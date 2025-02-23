@@ -1,0 +1,38 @@
+2025-02-09 16:55:43,898 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.1.219:80
+2025-02-09 16:55:43,898 - [33mPress CTRL+C to quit[0m
+2025-02-09 17:00:22,625 - SELL 37.18030739 XLM (~$11.35) at $0.305167
+2025-02-09 17:00:22,629 - 127.0.0.1 - - [09/Feb/2025 17:00:22] "POST /webhook HTTP/1.1" 200 -
+2025-02-09 17:01:19,354 - SELL 44076 PEPE (~$0.39) at $0.000009
+2025-02-09 17:01:19,354 - 127.0.0.1 - - [09/Feb/2025 17:01:19] "POST /webhook HTTP/1.1" 200 -
+2025-02-09 17:05:01,519 - BUY 3.47146069 USDC (~$3.47) at $1.000000
+2025-02-09 17:05:01,519 - 127.0.0.1 - - [09/Feb/2025 17:05:01] "POST /webhook HTTP/1.1" 200 -
+2025-02-09 17:10:15,680 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.1.219:80
+2025-02-09 17:10:15,680 - [33mPress CTRL+C to quit[0m
+2025-02-09 17:11:04,611 - SELL 2E-8 XLM (~$0.00) at $0.305463
+2025-02-09 17:11:04,611 - 127.0.0.1 - - [09/Feb/2025 17:11:04] "POST /webhook HTTP/1.1" 200 -
+2025-02-09 17:12:36,789 - SELL 1 PEPE (~$0.00) at $0.000009
+2025-02-09 17:12:36,789 - 127.0.0.1 - - [09/Feb/2025 17:12:36] "POST /webhook HTTP/1.1" 200 -
+2025-02-09 17:18:33,209 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.1.219:80
+2025-02-09 17:18:33,209 - [33mPress CTRL+C to quit[0m
+2025-02-09 17:19:29,600 - BUY 3.47146069 USDC (~$3.47) at $1.000000
+2025-02-09 17:19:29,600 - 127.0.0.1 - - [09/Feb/2025 17:19:29] "POST /webhook HTTP/1.1" 200 -
+2025-02-09 17:19:58,224 - BUY 3.47146069 USDC (~$3.47) at $1.000000
+2025-02-09 17:19:58,224 - 127.0.0.1 - - [09/Feb/2025 17:19:58] "POST /webhook HTTP/1.1" 200 -
+2025-02-09 17:20:06,679 - SELL 2E-8 XLM (~$0.00) at $0.307026
+2025-02-09 17:20:06,679 - 127.0.0.1 - - [09/Feb/2025 17:20:06] "POST /webhook HTTP/1.1" 200 -
+2025-02-09 17:20:56,747 - SELL 1 PEPE (~$0.00) at $0.000009
+2025-02-09 17:20:56,747 - 127.0.0.1 - - [09/Feb/2025 17:20:56] "POST /webhook HTTP/1.1" 200 -
+2025-02-09 17:23:36,801 - SELL 2E-8 XLM (~$0.00) at $0.309295
+2025-02-09 17:23:36,801 - 127.0.0.1 - - [09/Feb/2025 17:23:36] "POST /webhook HTTP/1.1" 200 -
+2025-02-09 17:34:51,723 - 127.0.0.1 - - [09/Feb/2025 17:34:51] "GET /balances HTTP/1.1" 200 -
+2025-02-09 17:36:18,193 - BUY 11.22875904 XLM (~$3.47) at $0.309158
+2025-02-09 17:36:18,193 - 127.0.0.1 - - [09/Feb/2025 17:36:18] "POST /webhook HTTP/1.1" 200 -

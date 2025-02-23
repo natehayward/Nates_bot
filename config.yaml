@@ -1,0 +1,7 @@
+api_key: "organizations/41037d31-cd84-4b85-8098-e0818616d345/apiKeys/c276d010-3f61-4873-92ba-ad4f06ec5354"
+api_secret: |
+  -----BEGIN EC PRIVATE KEY-----
+  MHcCAQEEIIpG3dLGxSUcluCjjKivQHBxTe6Bf473TtDDt8sOjyM5oAoGCCqGSM49
+  AwEHoUQDQgAEK1RVcKaaRuE0M/1FPL53r3iuf+V03TkO5AShAZ76NcRvNfri3uzD
+  Ignw947hyICjXkBuISdgsmUoxxX+ZDLXuA==
+  -----END EC PRIVATE KEY-----
